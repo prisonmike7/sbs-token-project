@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+test/Counter.t.sol
+src/Counter.sol
